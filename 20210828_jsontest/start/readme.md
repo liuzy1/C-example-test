@@ -1,0 +1,1 @@
+./json_test_node -config /home/bitrobot/BIT_WorkSpace/01_OperationalCode/01_C++CodeExercise/20210828_CxxJSON/jsontest/configuration_files/student_info.json

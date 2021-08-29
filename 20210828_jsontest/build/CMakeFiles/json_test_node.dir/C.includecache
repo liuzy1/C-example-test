@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bitrobot/BIT_WorkSpace/01_OperationalCode/01_C++CodeExercise/20210828_CxxJSON/jsontest/src/json/cJSON.c
+string.h
+-
+stdio.h
+-
+math.h
+-
+stdlib.h
+-
+float.h
+-
+limits.h
+-
+ctype.h
+-
+cJSON.h
+/home/bitrobot/BIT_WorkSpace/01_OperationalCode/01_C++CodeExercise/20210828_CxxJSON/jsontest/src/json/cJSON.h
+
+/home/bitrobot/BIT_WorkSpace/01_OperationalCode/01_C++CodeExercise/20210828_CxxJSON/jsontest/src/json/cJSON.h
+

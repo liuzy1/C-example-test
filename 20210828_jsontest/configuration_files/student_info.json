@@ -1,0 +1,11 @@
+{
+	"info":	{
+                "name":	"I am Mr.liu",
+                "year":	18,
+                "id": 123456,
+                "chinese": 98,
+                "math": 99,
+                "home_path": "/home/lzy/",
+                "flag_pass": 0
+            }
+}
